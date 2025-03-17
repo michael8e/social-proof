@@ -20,5 +20,4 @@ first SAAS that adds social proof to website. people can create and customize di
 
 ## Author
 
-- Website - [](https://www.your-site.com)
-- Twitter - [@_michael8e](https://twitter.com/_michael8e)
+- Twitter - [@_michael8e](https://X.com/_michael8e)
